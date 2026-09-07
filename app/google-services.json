@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554310889700",
+    "project_id": "shop-appdesignui",
+    "storage_bucket": "shop-appdesignui.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554310889700:android:7e0bd2f2adbfb1eed17cf1",
+        "android_client_info": {
+          "package_name": "com.example.shopappuidesign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFzzFramho03b__YRsvob7ucft4hYr4Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
